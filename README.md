@@ -1,5 +1,4 @@
-# CMake-OpenCV-from-sources
-Compile OpenCV with contrib modules from sources as part of the CMake build.
+# Compile OpenCV with contrib modules from sources as part of the CMake build
 
 This is a small example that demonstrates how OpenCV including contrib modules can be compiled from sources only using CMake as part of the build.
 
